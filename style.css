@@ -32,7 +32,7 @@ h1 {
     margin-bottom: 25px;
 }
 
-.entrada {
+.input {
     display: flex;
     gap: 5px; /* Espaço entre o campo e o botão */
     margin-bottom: 20px;
