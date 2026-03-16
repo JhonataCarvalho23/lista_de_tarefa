@@ -79,7 +79,7 @@ li {
     align-items: center;
     justify-content: space-between;
     color: whitesmoke;
-    margin-bottom: 15px;
+    margin: 8px 0;
 }
 span:hover {
     cursor: pointer;
